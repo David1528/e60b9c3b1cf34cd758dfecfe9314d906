@@ -5,7 +5,7 @@ cycler==0.10.0
 Django==2.2.3
 django-redis==4.10.0
 dnspython==1.16.0
-eventlet==0.25.0
+eventlet==0.31.0
 greenlet==0.4.15
 kiwisolver==1.1.0
 kombu==4.6.3
