@@ -1,6 +1,6 @@
 amqp==2.5.0
 billiard==3.6.0.0
-celery==4.4.0rc2
+celery==5.2.2
 cycler==0.10.0
 Django==2.2.3
 django-redis==4.10.0
